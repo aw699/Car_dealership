@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623361235930",
+    "project_id": "carde-5436a",
+    "storage_bucket": "carde-5436a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623361235930:android:0bcfe782a75dd78ab9fee3",
+        "android_client_info": {
+          "package_name": "com.example.cardealership"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABanROq1qfMCkEjA8Kv21YMXIlOsob4qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
